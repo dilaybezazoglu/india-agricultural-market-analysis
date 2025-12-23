@@ -53,6 +53,7 @@ The objective is to translate complex price movements into **clear, actionable i
 The Looker Studio dashboard is structured into **five main analytical sections**, each designed to answer a specific market question.
 
 ### 🔹 1. KPI & Market Overview
+![KPI Overview](visuals/kpi_overview.png)
 - Overall market coverage: number of commodities, states, districts, and markets  
 - Long-term average price trend (2001–2025)  
 - Quality distribution (FAQ vs Non-FAQ commodities)  
@@ -61,6 +62,7 @@ The Looker Studio dashboard is structured into **five main analytical sections**
 ---
 
 ### 🔹 2. Covid Impact Analysis
+![Covid Impact](visuals/covid_impact.png)
 - Covid Shock Index and period-based price comparison  
 - Volatility and spread comparison across pre-Covid, Covid, and post-Covid periods  
 - Identification of permanent price level shifts caused by Covid  
@@ -68,6 +70,7 @@ The Looker Studio dashboard is structured into **five main analytical sections**
 ---
 
 ### 🔹 3. Price Volatility & Spread Analysis
+![Volatility & Spread](visuals/volatility_spread.png)
 - Commodity-level volatility distribution  
 - Relationship between price spread and volatility over time  
 - Identification of high-risk commodities based on volatility thresholds  
@@ -76,6 +79,7 @@ The Looker Studio dashboard is structured into **five main analytical sections**
 ---
 
 ### 🔹 4. Seasonal (Monsoon) Impact Analysis
+![Monsoon Effect](visuals/monsoon_effect.png)
 - Average price comparison between monsoon and non-monsoon periods  
 - Seasonal volatility patterns  
 - Regional monsoon impact heatmap  
@@ -84,6 +88,7 @@ The Looker Studio dashboard is structured into **five main analytical sections**
 ---
 
 ### 🔹 5. Forecasting & Machine Learning Insights
+![Forecasting](visuals/forecasting.png)
 - Price forecasts for selected high-impact commodities  
 - Model performance metrics and error analysis  
 - Forward-looking insights for future price risk scenarios  
